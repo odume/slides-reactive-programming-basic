@@ -1,4 +1,6 @@
-### Sync and Async in Java
+## Sync and Async in Java
+
+A method or function is synchronous or asynchronous depending on the returned Type
 
 |         | Single    | Multiple     |
 |---------|:---------:|:------------:|

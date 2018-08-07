@@ -1,4 +1,4 @@
-### A bit of History
+## A bit of History
 
 * Rx.NET born in 2009 at Microsoft
 * Similar extensions are released for other languages: Javascript, C++, ...
