@@ -1,3 +1,5 @@
 ## Errors are events like any other
 
-<img src="lib/images/errorStream.png"/>
+<br>
+
+<img class="plain" src="lib/images/errorStream.png"/>

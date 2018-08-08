@@ -7,6 +7,6 @@
 
 | |  |
 |-|--|
-| <img src="lib/images/no.png" style="border:0;background:black"/> | ```Flux.just(someService.doSomething(input))``` |
-| <img src="lib/images/yes.png" style="border:0;background:black"/> | ```Flux.just(input).map(i -> someService.doSomething(i)) ``` |
+| <img class="plain icon" src="lib/images/no.png"/> | ```Flux.just(someService.doSomething(input))``` |
+| <img class="plain icon" src="lib/images/yes.png"/> | ```Flux.just(input).map(i -> someService.doSomething(i)) ``` |
 

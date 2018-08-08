@@ -209,6 +209,7 @@ body {
 .reveal code {
     font-family: monospace;
     text-transform: none;
+    font-size: 75%;
 }
 
 .reveal pre code {
@@ -308,6 +309,12 @@ body {
 .reveal section img.plain {
     border: 0;
     box-shadow: none;
+    background: black;
+}
+
+.reveal section img.icon {
+    max-height: 40px;
+    max-width: 40px;
 }
 
 .reveal a img {
