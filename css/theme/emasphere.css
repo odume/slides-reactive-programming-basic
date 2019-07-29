@@ -14,7 +14,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
     top: 0;
     left: 0;
     font-size: 1em;
-    background: linear-gradient(to left, #FFD040, #53C25B);
+    background: linear-gradient(to left, #48CFAD, #53C25B);
     padding-top: 0.5vh;
 }
 
@@ -28,7 +28,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 }
 
 .reveal h1 {
-    background: linear-gradient(to left, #F97B00, #FFD040) repeat-x 0 1.16em;
+    background: linear-gradient(to left, #FFD040, #53C25B) repeat-x 0 1.16em;
 }
 
 .reveal h2 {
